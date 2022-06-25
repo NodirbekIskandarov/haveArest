@@ -1,0 +1,154 @@
+.logotip {
+  width: 50px;
+  height: 50px;
+}
+
+.logotip img {
+  width: 100%;
+}
+
+.tepa {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.tepa ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  list-style-type: none;
+}
+
+.tepa ul a {
+  text-decoration: none;
+}
+
+.umumiy {
+  padding-top: 50px;
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.foot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: rgba(255, 255, 255, 0.37);
+  padding: 25px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.foot .footichi {
+  width: 900px;
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.foot button {
+  width: 150px;
+  padding: 25px 0;
+  border-radius: 20px;
+  border: none;
+  background-color: orange;
+}
+
+.foot select {
+  border: none;
+}
+
+.calendar1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 10px;
+}
+
+.calendar1 .calendar2 {
+  margin-left: 10px;
+}
+
+.calendar1 .calendar2 p {
+  margin: 0;
+  padding: 0;
+}
+
+.odam {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.odam select {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: white;
+  border: 1px solid white;
+  padding: 15px;
+}
+
+span {
+  color: white;
+  margin: 0 10px;
+}
+
+h2 {
+  color: white;
+}
+
+.popular {
+  color: white;
+}
+
+.slayd {
+  height: 100px;
+}
+
+.olti {
+  padding: 10px;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=phone.css.map */

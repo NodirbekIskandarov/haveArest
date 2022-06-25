@@ -1,0 +1,100 @@
+.logotip {
+    width: 50px;
+    height: 50px;
+    img {
+        width: 100%;
+    }
+}
+.tepa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style-type: none;
+        a {
+            text-decoration: none;
+        }
+    }
+}
+.umumiy {
+    padding-top: 50px;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.37);
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 20px;
+    .footichi {
+        width: 900px;
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        border-radius: 20px;
+    }
+    button {
+        width: 150px;
+        padding: 25px 0;
+        border-radius: 20px;
+        border: none;
+        background-color: orange;
+    }
+    select {
+        border: none;
+    }
+}
+.calendar1 {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    .calendar2 {
+        margin-left: 10px;
+        p {
+            margin: 0;
+            padding: 0;
+        }
+    }
+}
+.odam {
+    display: flex;
+    align-items: center;
+    select {
+        margin-left: 10px;
+    }
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+}
+span {
+    color: white;
+    margin: 0 10px;
+}
+h2 {
+    color: white;
+}
+.popular {
+    color: white;
+}
+.slayd {
+    height: 100px;
+}
+.olti {
+    padding: 10px;
+    border-radius: 10px;
+}
